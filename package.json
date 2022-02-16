@@ -1,0 +1,22 @@
+{
+  "name": "typescriptplayground",
+  "version": "1.0.0",
+  "description": "see above",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dball661/TypescriptPlayground.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dball661/TypescriptPlayground/issues"
+  },
+  "homepage": "https://github.com/dball661/TypescriptPlayground#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
